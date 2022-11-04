@@ -11,7 +11,7 @@ This is for getting familiar with git and github repositories
 This is a simple DEV project
 
 ## How To Contribute
-
+Please fork this repo and issue pull request for review.
 
 ### Copyright
 
