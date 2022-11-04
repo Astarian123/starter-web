@@ -8,5 +8,6 @@ This is a project that is supposed to teach how to interact both with git and gi
 This is for getting familiar with git and github repositories
 
 ## Deployment
+This is a simple DEV project
 
 ## How To Contribute
