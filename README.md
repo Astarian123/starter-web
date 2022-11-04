@@ -11,3 +11,8 @@ This is for getting familiar with git and github repositories
 This is a simple DEV project
 
 ## How To Contribute
+
+
+### Copyright
+
+2022 Training
