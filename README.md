@@ -15,4 +15,4 @@ Please fork this repo and issue pull request for review.
 
 ### Copyright
 
-2022 Training
+2022 Training. All rights reserved.
